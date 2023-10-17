@@ -1,0 +1,2 @@
+# ips_forRealResizeR
+resized
